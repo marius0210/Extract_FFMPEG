@@ -1,0 +1,8 @@
+SfOriginalFPS=299700
+WMFSDKVersion=11.0.6001.7000
+WMFSDKNeeded=0.0.0.0000
+comment=Footage: Small World Productions, Inc; Tourism New Zealand | Producer: Gary F. Spradling | Music: Steve Ball
+title=Wildlife in HD
+copyright=© 2008 Microsoft Corporation
+IsVBR=0
+DeviceConformanceTemplate=AP@L3
